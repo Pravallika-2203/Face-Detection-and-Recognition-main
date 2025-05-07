@@ -25,7 +25,7 @@ You can check the demo of the project in the provided [output video](output0.mp4
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sridharreddy7831/Face-Recognition-in-Image-and-Video.git
+   git clone https://github.com/Pravallika-2203/Face-Detection-and-Recognition-main.git
    cd face-detection-recognition
    ```
 
